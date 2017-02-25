@@ -11,7 +11,7 @@ Instructions in Terminal:
    * Compile: javac Jiminy
    * Run: java Jiminy
    -- view pwd commands  
--------------------------------------------------------------------------
+
 Packages:
 * java.util.Calendar;
 * java.util.Date;
